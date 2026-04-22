@@ -5,11 +5,6 @@ A responsive landing page built as part of a front-end internship assignment.
 ## 🔗 Live Demo
 [View Live Site](https://annanya111.github.io/lumina-landing-page)
 
-## 📸 Screenshots
-
-![screenshot1](assets/scrrenshot1.png)
-![screenshot2](assets/Screenshot2.png)
-![screenshot3](assets/Screenshot3.png)
 
 ## 🛠️ Built With
 - HTML5
