@@ -17,6 +17,7 @@ A responsive landing page built as part of a front-end internship assignment.
 - Scroll-reveal animations
 
 ## 📁 Project Structure
+``` bash
 lumina-landing-page/
 │
 ├── index.html
@@ -26,7 +27,7 @@ lumina-landing-page/
 │   ├── pricing.png
 │   └── mobile.png
 └── README.md
-
+```
 ## 👤 Author
 Your Name
 GitHub: @your-username
