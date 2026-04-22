@@ -29,5 +29,5 @@ lumina-landing-page/
 └── README.md
 ```
 ## 👤 Author
-Your Name : Annanya Tiwari
-GitHub: annanya111
+ Annanya Tiwari
+
